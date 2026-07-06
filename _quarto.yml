@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Philippe Mortier"
+  navbar:
+    background: white
+    foreground: "#17324d"
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: index.qmd#research
+      - text: "Publications"
+        href: index.qmd#publications
+      - text: "Contact"
+        href: index.qmd#contact
+  page-footer:
+    left: "© Philippe Mortier"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
