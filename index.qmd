@@ -6,7 +6,7 @@ title: "Philippe Mortier"
 ::: {.hero-text}
 # Philippe Mortier, MD, MSc, PhD
 
-**Psychiatrist · Principal Researcher**  
+**Psychiatrist · Principal Investigator**  
 [Hospital del Mar Research Institute](https://researchmar.net/)  
 Barcelona, Spain
 
@@ -23,7 +23,7 @@ Barcelona, Spain
 ::: {.section}
 ## About
 
-I am a psychiatrist and principal researcher at the [Hospital del Mar Research Institute](https://researchmar.net/) in Barcelona, Spain. My research lies at the intersection of clinical epidemiology and translational psychiatry, with the overarching goal of improving the prevention and care of suicidal thoughts and behaviours.
+I am a psychiatrist and principal investigator at the [Hospital del Mar Research Institute](https://researchmar.net/) in Barcelona, Spain. My research lies at the intersection of clinical epidemiology and translational psychiatry, with the overarching goal of improving the prevention and care of suicidal thoughts and behaviours.
 
 My work combines large-scale healthcare data, clinical expertise, and advanced analytical methods to better understand why suicidal thoughts and self-harm develop, how they evolve over time, and how healthcare systems can identify and support people at risk more effectively. A major focus of my current research is the development of clinical tools that help healthcare professionals deliver more timely, personalized, and evidence-based care.
 
