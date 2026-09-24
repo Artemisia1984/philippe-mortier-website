@@ -42,7 +42,7 @@ I welcome opportunities for collaboration with researchers, clinicians, healthca
 ::: {.cards}
 ::: {.card}
 ### The Burden of Self-Harm and Suicide
-Using linked PADRIS health data to quantify the individual and population burden of self-harm and suicide.
+Using linked registry data to quantify the individual and population burden of self-harm and suicide.
 :::
 
 ::: {.card}
