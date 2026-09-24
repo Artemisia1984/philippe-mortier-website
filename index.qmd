@@ -41,23 +41,23 @@ I welcome opportunities for collaboration with researchers, clinicians, healthca
 
 ::: {.cards}
 ::: {.card}
-### Artificial Intelligence for Suicide Prevention
-Developing prediction models and clinical decision support tools for routine mental healthcare.
+### The Burden of Self-Harm and Suicide
+Using linked PADRIS health data to quantify the individual and population burden of self-harm and suicide.
 :::
 
 ::: {.card}
-### Clinical Epidemiology
-Using linked healthcare registry data to understand suicidal thoughts, self-harm, and suicide.
+### Suicidal Thoughts and Behaviours in Students
+Using international survey data to study the prevalence and predictors of suicidal thoughts and behaviours among university students.
 :::
 
 ::: {.card}
-### Digital Mental Health
-Studying suicidal ideation and stress sensitivity in daily life using ecological momentary assessment.
+### Suicidal Ideation in Daily Life
+Using ecological momentary assessment to investigate how affect and context relate to changes in suicidal ideation in real time.
 :::
 
 ::: {.card}
-### Global Mental Health
-Understanding suicidal thoughts and behaviours among university students through international collaborations.
+### Clinical Decision Support After Self-Harm
+Developing and evaluating tools to improve risk detection and support care for people presenting with self-harm.
 :::
 :::
 :::
