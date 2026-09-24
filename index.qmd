@@ -1,5 +1,5 @@
 ---
-title: "Philippe Mortier"
+title: "Personal website"
 ---
 
 ::: {.hero}
@@ -10,7 +10,7 @@ title: "Philippe Mortier"
 [Hospital del Mar Research Institute](https://researchmar.net/)  
 Barcelona, Spain
 
-## Developing data-driven approaches to improve suicide prevention and mental healthcare.
+## Using population and clinical data to advance suicide prevention.
 
 [Research](#research){.btn .btn-primary} [Publications](#publications){.btn .btn-outline-primary} [Contact](#contact){.btn .btn-outline-primary}
 :::
