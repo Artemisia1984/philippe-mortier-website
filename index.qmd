@@ -1,10 +1,10 @@
 ---
-title: "Personal website"
+title: "Welcome on my personal website"
 ---
 
 ::: {.hero}
 ::: {.hero-text}
-# Philippe Mortier, MD, MSc, PhD
+# Philippe Mortier
 
 **Psychiatrist · Principal Investigator**  
 [Hospital del Mar Research Institute](https://researchmar.net/)  
