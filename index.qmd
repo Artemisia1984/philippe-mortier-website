@@ -12,6 +12,8 @@ Barcelona, Spain
 
 ## Using population and clinical data to advance suicide prevention.
 
+**CV:** [Download CV (PDF)](assets/cv/Philippe_Mortier_CV.pdf){download="Philippe_Mortier_CV.pdf"}  
+
 [Research](#research){.btn .btn-primary} [Publications](#publications){.btn .btn-outline-primary} [Contact](#contact){.btn .btn-outline-primary}
 :::
 
